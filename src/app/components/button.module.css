@@ -1,0 +1,36 @@
+.button {
+    align-items: center;
+    align-self: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 2rem;
+    margin: 0.3rem;
+    background: transparent;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+
+    &:hover {
+        color: #f83c3b;
+    }
+
+}
+
+.red {
+    color: #f83c3b;
+}
+.equals {
+    width: 2.4rem;
+    height: 2.4rem;
+    line-height: 2.4rem;
+    background-color: #fa5655;
+    border-radius: 5px;
+    box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.2);
+    margin: .75rem;
+
+    &:hover {
+        background-color: #f83c3b;
+        color: #111111;
+    }
+ }
