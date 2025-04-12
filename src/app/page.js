@@ -2,7 +2,7 @@
 import {useState} from "react";
 
 import Styles from "./page.module.css";
-import Botoes from "@/app/components/botoes";
+import Botoes from "./components/botoes";
 import Display from "@/app/components/display";
 import buttonStyles from "@/app/components/button.module.css";
 
